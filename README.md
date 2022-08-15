@@ -57,7 +57,7 @@ Realizar un fork o clon del proyecto, importar al IDE de preferencia, para ejecu
 
 ## Contribuyendo 🖇️
 
-Por favor lee el [CONTRIBUTING.md](https://github.com/adrianfrancof/ServicioControlDestinos.git) para detalles de código de conducta, y el proceso para enviar pull requests.
+Por favor lee el [CONTRIBUTING.md](https://github.com/adrianfrancof/ServicioControlAlumnos.git) para detalles de código de conducta, y el proceso para enviar pull requests.
 
 ## Versionado 📌
 
